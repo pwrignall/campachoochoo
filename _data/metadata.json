@@ -1,12 +1,12 @@
 {
-  "title": "Eleventy Satisfactory",
-  "url": "https://code.mendhak.com/eleventy-satisfactory/",
-  "pathPrefix": "/eleventy-satisfactory/",
+  "title": "The Campachoochoo Chronicles",
+  "url": "https://chronicles.campachoochoo.net/",
+  "pathPrefix": "/",
   "language": "en",
-  "paginationSize": 4,
-  "favicon": "/assets/images/favicon.png",
-  "description": "Blog theme for Eleventy with various new features",
-  "tags": ["eleventy", "blog", "theme", "template", "starter"],
+  "paginationSize": 7,
+  "favicon": "/assets/images/blogprofile.png",
+  "description": "pwrignall's internet space on coding, creations, side projects.",
+  "tags": ["pwrignall", "blog", "coding", "creations", "side-project"],
   "feed": {
     "path": "/feed.xml"
   },
@@ -14,9 +14,9 @@
     "path": "/feed.json"
   },
   "author": {
-    "name": "mendhak",
+    "name": "pwrignall",
     "email": "",
-    "url": "https://github.com/mendhak/eleventy-satisfactory"
+    "url": "https://github.com/pwrignall/"
   },
   "opengraph": {
     "image": "/assets/images/article.png",
