@@ -37,6 +37,6 @@ Since one of the requirements of the challenge is to "document my coffeeneuring"
 
 I'm planning to include the rest of my coffeeneuring exploits as well as: jotting down things I've found interesting that I want to find again later, sharing (hopefully) useful bits of information that aren't easy to find elsewhere, and getting better at writing.
 
-Thanks to Mendhak's [Eleventy Satisfactory Blog Theme](https://github.com/mendhak/eleventy-satisfactory) and 
-
 The "campachoochoo" part of the name is courtesy of Bob Mortimer and one of his ['Train Guy's catchphrases](https://mashable.com/article/bob-mortimer-train-guy). No affiliation with it, I just like the word!
+
+Thanks to Mendhak's [Eleventy Satisfactory Blog Theme](https://github.com/mendhak/eleventy-satisfactory) and its excellent documentation to help get me going.
