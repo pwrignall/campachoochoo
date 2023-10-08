@@ -1,0 +1,5 @@
+* Test Prism code blocks
+
+    Navigate to '{baseUrl}/eleventy-satisfactory/post-with-code/'
+
+        Verify 'pre.language-javascript' is visible
